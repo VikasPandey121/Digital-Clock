@@ -22,3 +22,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Building and Running Digital-Clock
+Building and running Digital-Clock in your local dev environment is very easy. Be sure that you have prior knowledge of `Spark AR Studio`, then follow the directions below. 
+ 1. Clone the source code
+
+ `https://github.com/VikasPandey121/Digital-Clock.git`
+
+
+2. Download `Flutter`. For more information about Spark AR Studio go to [this link](https://flutter.dev/docs/get-started/codelab)
+
