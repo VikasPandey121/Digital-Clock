@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/VikasPandey121/Digital-Clock.svg)](http://hits.dwyl.io/VikasPandey121/Digital-Clock)
+    [![HitCount](http://hits.dwyl.io/VikasPandey121/Digital-Clock.svg)](http://hits.dwyl.io/VikasPandey121/Digital-Clock)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/VikasPandey121/Digital-Clock/graphs/commit-activity)
 ![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Digital-Clock?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Digital-Clock?style=social)
@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Building and Running Digital-Clock
-Building and running Digital-Clock in your local dev environment is very easy. Be sure that you have prior knowledge of `Spark AR Studio`, then follow the directions below. 
+Building and running Digital-Clock in your local dev environment is very easy. Be sure that you have prior knowledge of `Android Studio`, then follow the directions below. 
  1. Clone the source code
 
  `https://github.com/VikasPandey121/Digital-Clock.git`
