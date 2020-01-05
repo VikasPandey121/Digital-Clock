@@ -35,5 +35,5 @@ Building and running Digital-Clock in your local dev environment is very easy. B
  `https://github.com/VikasPandey121/Digital-Clock.git`
 
 
-2. Download `Flutter`. For more information about Spark AR Studio go to [this link](https://flutter.dev/docs/get-started/codelab)
+2. Download `Flutter`. For more information about Flutter go to [this link](https://flutter.dev/docs/get-started/codelab)
 
