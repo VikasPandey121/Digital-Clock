@@ -1,4 +1,4 @@
-    [![HitCount](http://hits.dwyl.io/VikasPandey121/Digital-Clock.svg)](http://hits.dwyl.io/VikasPandey121/Digital-Clock)
+[![HitCount](http://hits.dwyl.io/VikasPandey121/Digital-Clock.svg)](http://hits.dwyl.io/VikasPandey121/Digital-Clock)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/VikasPandey121/Digital-Clock/graphs/commit-activity)
 ![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Digital-Clock?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Digital-Clock?style=social)
