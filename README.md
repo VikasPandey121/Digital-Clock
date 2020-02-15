@@ -12,7 +12,7 @@ A new Flutter application that can give provide you the current time digitally.
 
 ## Project View
 
-<img src="https://raw.githubusercontent.com/VikasPandey121/Reported-issues/master/supportingFiles/Attachments/flutterVid.gif" >
+<img src="https://raw.githubusercontent.com/VikasPandey121/Reported-issues/master/supportingFiles/Attachments/Dart.gif" >
 
 ## Getting Started
 
