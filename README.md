@@ -37,3 +37,5 @@ Building and running Digital-Clock in your local dev environment is very easy. B
 
 2. Download `Flutter`. For more information about Flutter go to [this link](https://flutter.dev/docs/get-started/codelab)
 
+
+Made with <img src="https://cdn-images-1.medium.com/max/1200/1*2yFbiGdcACiuLGo4dMKmJw.jpeg" width="90" height="35">
